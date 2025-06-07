@@ -1,0 +1,4 @@
+10,Miscellaneous,Unspecified expense,2025-06-08
+10,food,vada pav,2025-06-08
+150,food,starbucks,2025-06-08
+150,food,coffee at Starbucks,2025-06-08
